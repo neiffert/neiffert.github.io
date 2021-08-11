@@ -6,7 +6,7 @@ categories: jekyll update
 usemathjax: true
 ---
 
-How many distinct rhythms in any given amount of beats?
+How many distinct rhythms are there in any given amount of beats?
 
 There isn't any crazy math involved with this problem, but I solved this without any help from others and I like its solution. I'm sure this is given as some exercise in a combinatorics textbook out there.
 
